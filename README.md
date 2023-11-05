@@ -1,1 +1,3 @@
 # WA-TP2-S3
+
+"Notre école de formation en ligne offre un processus de préinscription pour garantir que nos apprenants trouvent la formation qui correspond le mieux à leurs besoins. Lors de cette phase, vous partagerez des informations essentielles sur votre formation antérieure et vos objectifs d'apprentissage. Cette démarche permet d'évaluer votre admissibilité à notre programme, garantissant ainsi que chaque candidat puisse trouver le cours qui lui convient le mieux avant de passer à l'inscription officielle."
