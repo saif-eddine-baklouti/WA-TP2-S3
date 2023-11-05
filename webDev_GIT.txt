@@ -1,3 +1,3 @@
-https://e2395393.webdev.cmaisonneuve.qc.ca/tp1wa/
+https://e2395393.webdev.cmaisonneuve.qc.ca/WA-TP2-S3/
 
-https://github.com/saif-eddine-baklouti/WA-TP1-S3.git
+https://github.com/saif-eddine-baklouti/WA-TP2-S3.git
